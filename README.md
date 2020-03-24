@@ -1,4 +1,4 @@
-# TS5-Linux-Server-Auto-nstaller
+# TS5-Linux-Server-Auto-Installer
 NOT RUN ROOT USER VPS!!
 
  $ curl -O https://raw.githubusercontent.com/obirninja/TS5-Linux-Server-Auto-nstaller/master/setup.py

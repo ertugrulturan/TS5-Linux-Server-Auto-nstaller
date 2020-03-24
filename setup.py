@@ -6,7 +6,6 @@ import os
 os.system('wget https://files.teamspeak-services.com/releases/server/3.12.0/teamspeak3-server_linux_amd64-3.12.0.tar.bz2')
 os.system('tar -xvf teamspeak3-server_linux_amd64-3.12.0.tar.bz2')
 os.system('rm teamspeak3-server_linux_amd64-3.12.0.tar.bz2')
-os.system('cd teamspeak3-server_linux_amd64/')
 os.system('echo "license_accepted=1" > teamspeak3-server_linux_amd64/.ts3server_license_accepted')
 os.system('bash teamspeak3-server_linux_amd64/ts3server_startscript.sh start')
 print "-----------=[ \033[91mHost/\033[94m TS5 Server Kuruldu! ]=-----------"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

@@ -3,7 +3,7 @@
 # TS3/5 New version server auto installer - NOT RUN ROOT USER VPS!!
 # #TS3/5 IP : NinjaNetWork
 import os
-os.system('wget https://files.teamspeak-services.com/releases/server/3.12.0/teamspeak3-server_linux_amd64-3.12.0.tar.bz2')
+os.system('wget https://files.teamspeak-services.com/releases/server/3.13.3/teamspeak3-server_linux_amd64-3.13.3.tar.bz2')
 os.system('tar -xvf teamspeak3-server_linux_amd64-3.12.0.tar.bz2')
 os.system('rm teamspeak3-server_linux_amd64-3.12.0.tar.bz2')
 os.system('echo "license_accepted=1" > teamspeak3-server_linux_amd64/.ts3server_license_accepted')
